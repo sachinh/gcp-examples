@@ -1,0 +1,40 @@
+AIX,5.6.0
+Amiga,10.2.1
+BeOS,8.9.0
+Darwin,4.5.7
+FreeBSD,2.3.6
+FreeDOS,6.3.1
+GNU/Hurd,4.6.1
+HP-UX,6.5.3
+HP-UX,6.5.7
+HP-UX,7.5.3
+HP-UX,8.9.3
+IRIX,6.3.1
+JavaOS,6.2.1
+Linux,8.4.1
+Ubuntu,14.04.2
+Ubuntu,16.04.1
+Ubuntu,18.02.1
+CentOS,6.5.1
+CentOS,7.0.1
+Red Hat,7.8.1
+Mac OS X,9.0.1
+Mac OS X,10.1.1
+Mac OS X,11.8.1
+Mac OS X,12.1.1
+Mac OS X,10.5.1
+Mac OS X,13.0.0
+Microsoft Windows,3.1
+Microsoft Windows,3.5
+Microsoft Windows,4.0
+Microsoft Windows,5.0
+MINIX,1.4.1
+MS-DOS,3.5.1
+NetBSD,5.3.1
+OpenBSD,7.5.2
+Palm OS,3.7.8
+QNX,1.7.1
+SkyOS.4.56.1
+Solaris,5.2.6
+TRON,6.2.7
+Tru64,5.7.2
